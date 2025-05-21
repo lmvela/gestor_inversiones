@@ -10,5 +10,6 @@ env/
 *.sqlite3
 stocks.db
 node_modules/
+.next/
 
 
